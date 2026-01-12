@@ -5,10 +5,11 @@
 
 #####   PROBLEM   #####
 # You are dining at the "Budget Bistro." Your program should:
-# Ask the user for the original cost of the meal.
-# Ask the user for the tip percentage they wish to leave (e.g., 15).
-# Calculate the tip amount and the total bill.
-# Print a summary of the costs.
+#   1. Ask the user for the original cost of the meal.
+#   2. Ask the user for the tip percentage they wish to leave (e.g., 15).
+#   3. Calculate the tip amount and the total bill.
+#   4. Print a summary of the costs.
+# Check README.md to see the required output for this program
 
 #####   CODE   #####
 
